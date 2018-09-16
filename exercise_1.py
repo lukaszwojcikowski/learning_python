@@ -1,0 +1,5 @@
+first_name = input("What's your first name? ")
+last_name = input("What's your last name? ")
+print("Hi, {} {}".format(first_name, last_name))
+print("Hi,", first_name, last_name)
+print("Hi, " + first_name + " " + last_name)
